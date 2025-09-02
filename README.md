@@ -2,7 +2,6 @@
 
 Welcome to the official repository of **Dimple Star Transport**.
 
-👉 **[Visit the Website](https://drei32.github.io/dimplestar/)** 
 
 ---
 
