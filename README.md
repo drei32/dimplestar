@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Dimple Star Transport**.
 
-👉 **[Visit the Website](https://yourusername.github.io/your-repo-name/)**
+👉 **[Visit the Website](https://yourusername.github.io/dimplestar/)**
 
 ---
 
